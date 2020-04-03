@@ -27,7 +27,7 @@ You can use this to set environment variables, define functions, and run post-lo
     
 #### Everything else
 
-    $ wget https://raw.githubusercontent.com/Russell91/sshrc/master/sshrc && 
+    $ wget https://raw.githubusercontent.com/e-nikolov/sshrc/master/sshrc && 
     chmod +x sshrc && 
     sudo mv sshrc /usr/local/bin #or anywhere else on your PATH
 
